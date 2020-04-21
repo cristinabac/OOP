@@ -1,0 +1,6 @@
+basenji,Jeff,3,https://dogtime.com/dog-breeds/basenji#/slide/1
+bichon,Jerry,2,https://dogtime.com
+beagle,Maxi,4,https://dogtime.com
+bichon,Pufi,6,https://dogtime.com
+labrador,Lola,10,www.google.com
+labrador,Jiji,8,www.google.com
